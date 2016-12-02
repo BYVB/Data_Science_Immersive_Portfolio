@@ -6,7 +6,7 @@
 
 **Project 3**: *Under Construction*
 
-**Project 4**: Web Scraping, Logistic Regression
+**Project 4**: Web Scraping, Google Distance API
 
 **Project 5**: IMDB API, Natural Language Processing 
 
