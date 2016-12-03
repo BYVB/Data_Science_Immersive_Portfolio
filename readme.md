@@ -8,9 +8,9 @@
 
 **Project 4**: Web Scraping, Google Distance API
 
-**Project 5**: IMDB API, Natural Language Processing 
+**Project 5**: Predicting the Titanic, Classification Techniques
 
-**Project 6**: Predicting the Titanic, Random Forest Classification 
+**Project 6**: IMDB API, Natural Language Processing 
 
 **Project 7**: Airport Delay Analysis, PCA and Cluster Analysis
 
