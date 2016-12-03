@@ -4,13 +4,13 @@
 
 **Project 2**: Summary Statistics, Pandas and Data Munging
 
-**Project 3**: *Under Construction*
+**Project 3**:  *Under Construction*  - Liquor Store Sales Data, Linear Regression
 
 **Project 4**: Web Scraping, Google Distance API
 
 **Project 5**: Predicting the Titanic, Classification Techniques
 
-**Project 6**: IMDB API, Natural Language Processing 
+**Project 6**:  *Under Construction*  IMDB API, Natural Language Processing 
 
 **Project 7**: Airport Delay Analysis, PCA and Cluster Analysis
 
