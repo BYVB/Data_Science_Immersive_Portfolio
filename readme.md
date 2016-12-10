@@ -12,7 +12,7 @@
 
 **Project 6**: IMDB API, Natural Language Processing 
 
-**Project 7**:  *Under Construction* - Airport Delay Analysis, PCA and Cluster Analysis
+**Project 7**: Airport Delay Analysis, PCA and Cluster Analysis
 
 
 General Assembly's Data Science Immersive is a 12-week program about data science including statistical analysis, visualization, machine learning modeling/algorithms, and predictive analytics. The program totals over 600+ hours of in-class and after hours intensive training focused on coding and data science methodology/practices.
